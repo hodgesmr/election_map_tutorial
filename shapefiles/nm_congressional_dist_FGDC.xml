@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Research and Polling</origin>
+<pubdate>2012</pubdate>
+<title>nm_congressional_dist</title>
+<geoform>vector digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>New Mexico Congressional Districts for the 2012 through 2020 election cycles.</abstract>
+<purpose>Define the districts to be used for the 2012 through 2020 election cycles.</purpose>
+<supplinf>The New Mexico Congressional districts are those as ordered by the New Mexico First Judicial District Court on January 17, 2012</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>20110311</begdate>
+<begtime>Unknown</begtime>
+<enddate>20120127</enddate>
+<endtime>Unknown</endtime>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-109.050173</westbc>
+<eastbc>-103.001964</eastbc>
+<northbc>37.000293</northbc>
+<southbc>31.332172</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>districts</themekey>
+<themekey>congressional district</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>New Mexico</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>None</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Michael Sharp</cntper>
+<cntorg>Research and Polling</cntorg>
+</cntperp>
+<cntpos>Vice President</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>5140 San Francisco Rd NE</address>
+<city>Albuquerque</city>
+<state>NM</state>
+<postal>87109</postal>
+</cntaddr>
+<cntvoice>505-821-5454</cntvoice>
+<cntemail>msharp@rpinc.com</cntemail>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+</idinfo>
+<dataqual>
+<logic>Unknown</logic>
+<complete>Complete</complete>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+<pubdate>201001</pubdate>
+<title>Census 2010 TIGER database</title>
+</citeinfo>
+</srccite>
+<srcscale>9999</srcscale>
+<typesrc>data</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2012</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication date</srccurr>
+</srctime>
+<srccitea>TIGER</srccitea>
+<srccontr>data</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Census VTDs and blocks are aggregated into legislative districts.</procdesc>
+<procdate>2012</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Michael Sharp</cntper>
+<cntorg>Research and Polling</cntorg>
+</cntperp>
+<cntpos>Vice President</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>5140 San Francisco Rd NE</address>
+<city>Albuquerque</city>
+<state>NM</state>
+<postal>87109</postal>
+</cntaddr>
+<cntvoice>505-821-5454</cntvoice>
+<cntemail>msharp@rpinc.com</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<indspref>New Mexico</indspref>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>3</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000001</latres>
+<longres>0.000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>nm_congressional_dist</enttypl>
+<enttypd>New Mexico Congressional Districts</enttypd>
+<enttypds>Research and Polling</enttypds>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Object ID</attrdef>
+<attrdefs>Research and Polling</attrdefs>
+<attrdomv>
+<udom>Object ID</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>District_N</attrlabl>
+<attrdef>District Number, alpha</attrdef>
+<attrdefs>Research and Polling</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers, one for each district.
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>District_1</attrlabl>
+<attrdef>District Number, numeric</attrdef>
+<attrdefs>Research and Polling</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers, one for each district.
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Name</attrlabl>
+<attrdef>Name</attrdef>
+<attrdefs>Research and Polling</attrdefs>
+<attrdomv>
+<udom>Name</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Earth Data Analysis Center</cntorg>
+</cntorgp>
+<cntpos>Clearinghouse Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>MSC01 1110</address>
+<address>1 University of New Mexico</address>
+<city>Albuquerque</city>
+<state>NM</state>
+<postal>87131-0001</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>505-277-3622 ext. 230</cntvoice>
+<cntfax>505-277-3614</cntfax>
+<cntemail>clearinghouse@edac.unm.edu</cntemail>
+<hours>0800 - 1700 MT, M-F -7 hours GMT</hours>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<distliab>The material on this site is made available as a public service. Maps and data are
+to be used for reference purposes only and the Earth Data Analysis Center (EDAC),
+Resource Geographic Information System (RGIS) and The University of New Mexico are not
+responsible for any inaccuracies herein contained. No responsibility is assumed for
+damages or other liabilities due to the accuracy, availability, use or misuse of the
+information herein provided. Unless otherwise indicated in the documentation (metadata)
+for individual data sets, information on this site is in the public domain and may be
+copied without permission; citation of the source is appreciated.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ZIP</formname>
+<transize>0.448</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>rgis.unm.edu</networkr>
+</networka>
+</computer>
+<accinstr>http://rgis.unm.edu</accinstr>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>None. The files are available to download from RGIS.</fees>
+<ordering>Download from RGIS at http://rgis.unm.edu</ordering>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20121219</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Earth Data Analysis Center</cntorg>
+</cntorgp>
+<cntpos>RGIS Clearinghouse Manager</cntpos>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<address>MSC01 1110</address>
+<address>1 University of New Mexico</address>
+<city>Albuquerque</city>
+<state>NM</state>
+<postal>87131-0001</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>505-277-3622</cntvoice>
+<cntfax>505-277-3614</cntfax>
+<cntemail>clearinghuse@edac.unm.edu</cntemail>
+<hours>8AM - 5PM, Mountain Time</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+</metadata>
