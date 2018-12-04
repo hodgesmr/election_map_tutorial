@@ -1,6 +1,6 @@
 # Election Map Tutorial
 
-This is a [Jupyter Notebook](https://jupyter.org/) tutorial demonstrating how to map [OpenElections Data](https://github.com/openelections/openelections-data-nm) (New Mexico's 2nd Congressional District) using [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/), and [geopandas](http://geopandas.org/).
+This is a [Jupyter Notebook](https://jupyter.org/) tutorial demonstrating how to map [OpenElections Data](https://github.com/openelections/openelections-data-nm) (New Mexico's 2nd Congressional District) using Python 3, [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/), and [geopandas](http://geopandas.org/).
 
 ## License
 
